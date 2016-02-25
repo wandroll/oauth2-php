@@ -37,7 +37,7 @@
     "require": {
         "guzzlehttp/guzzle": "~6.0",
         "lib-openssl": "*",
-        "php": ">=5.5.9",
+        "php": ">=5.4",
         "psr/log": "~1.0",
         "symfony/http-foundation": "~2.8|~3.0",
         "symfony/http-kernel": "~2.8|~3.0",
